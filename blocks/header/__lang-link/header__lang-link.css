@@ -5,6 +5,11 @@
   text-transform: capitalize;
 }
 
+.header__lang-link a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 .header__lang-link:last-child {
   margin-right: 0;
 }

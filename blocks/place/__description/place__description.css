@@ -2,3 +2,10 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width: 425px) {
+  .place__description {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
