@@ -1,3 +1,5 @@
+@import url(../vendor/normalize.css);
+
 @import url(../fonts/inter.css);
 
 @import url(../blocks/root/root.css);
@@ -38,10 +40,10 @@
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__description/cover__description.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
-@import url(../blocks/cover/__overlay/cover__overlay.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__link-list/footer__link-list.css);
