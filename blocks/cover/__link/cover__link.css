@@ -1,16 +1,11 @@
 .cover__link {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  color: #ffffff;
+  width: 100%;
+  color: #fff;
   text-decoration: none;
   display: flex;
-  background-image: url(../../images/cover-trains.jpg),
-    linear-gradient(rgba(42, 44, 47, 0.3), rgba(42, 44, 47, 0.3));
   background-size: cover;
   transition: background 0.2s;
+  z-index: 1;
 }
 
 .cover__link:hover {
