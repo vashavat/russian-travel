@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
   .place__description {
     margin-left: 16px;
     margin-right: 16px;
