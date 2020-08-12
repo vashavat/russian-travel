@@ -6,19 +6,11 @@
   max-width: 640px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .lead__subtitle {
-    max-width: calc(100% - 128px);
-    font-size: 3.90625vw;
-  }
-}
-
-@media (max-width: 425px) {
-  .lead__subtitle {
-    max-width: 288px;
-    font-size: 16px;
-    margin: 16px auto 0;
-    font-size: 16px;
+    max-width: calc(100% - 32px);
+    font-size: 3.9vw;
     line-height: 1.25;
+    margin: 16px auto 0;
   }
 }
