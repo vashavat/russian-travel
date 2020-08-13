@@ -1,23 +1,4 @@
 .header__lang-link {
-  font-size: 24px;
-  line-height: 1.16;
-  margin: 18px 18px 0 0;
-  text-transform: capitalize;
-}
-
-.header__lang-link a {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
-}
-
-.header__lang-link:last-child {
-  margin-right: 0;
-}
-
-@media screen and (max-width: 767px) {
-  .header__lang-link {
-    font-size: 18px;
-    line-height: 1.33;
-    margin-top: 14px;
-  }
 }
